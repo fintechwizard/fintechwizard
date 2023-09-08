@@ -27,7 +27,7 @@ Check out this beautiful image generated using our AI technology and Stable Diff
 You can find our full collection of AI-generated art and images here:
 </p>
 <p align="center">
-[https://opensea.io/collection/untitled-collection-1455189978](https://opensea.io/eVOLV_85)
+[https://opensea.io/eVOLV_85]
 </p>
 <br>
 <h2 align="center">:telephone: Connect with us: </h2>
