@@ -33,7 +33,7 @@ You can find our full collection of AI-generated art and images here:
 <h2 align="center">:telephone: Connect with us: </h2>
 <br>
 <p align="center">
-  <a href="" target="blank"><img align="center" src="https://simpleicons.org/icons/x.svg" alt="eVOLV" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="https://twitter.com/eVOLV_85" target="blank"><img align="center" src="https://simpleicons.org/icons/x.svg" alt="eVOLV" height="40" width="40" /></a> &nbsp;&nbsp;
   <a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/107593481/211128153-14a01943-13d2-47d5-93a7-c8eb7be1c257.svg" alt="eVOLV" height="40" width="40" /></a> &nbsp;&nbsp;
   <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="eVOLV" height="40" width="40" /></a>
   &nbsp;&nbsp;
