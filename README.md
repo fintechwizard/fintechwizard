@@ -33,12 +33,11 @@ You can find our full collection of AI-generated art and images here:
 <h2 align="center">:telephone: Connect with us: </h2>
 <br>
 <p align="center">
-  <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="devops_wizard" height="40" width="40" /></a> &nbsp;&nbsp;
-  <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="devops_wizard" height="40" width="40" /></a> &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/daniel-harris85/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/107593481/211128153-14a01943-13d2-47d5-93a7-c8eb7be1c257.svg" alt="devops_wizard" height="40" width="40" /></a> &nbsp;&nbsp;
-  <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="devops_wizard" height="40" width="40" /></a>
+  <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="eVOLV" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/daniel-harris85/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/107593481/211128153-14a01943-13d2-47d5-93a7-c8eb7be1c257.svg" alt="eVOLV" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="eVOLV" height="40" width="40" /></a>
   &nbsp;&nbsp;
-  <a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/107593481/211128154-93f08d3f-9c55-4a15-8997-f73747c7b24c.svg" alt="devops_wizard" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/107593481/211128154-93f08d3f-9c55-4a15-8997-f73747c7b24c.svg" alt="eVOLV" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
 <br>
 <h2 align="center">:pray: Support :pray: </h2>
