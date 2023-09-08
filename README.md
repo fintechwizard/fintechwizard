@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/fintechwizard/fintechwizard/assets/107593481/8120c28e-e901-428b-a1f0-8e70aa2ede7b" alt="Avatar" width="400" height="300">
+  <img src="https://github.com/fintechwizard/fintechwizard/assets/107593481/38b5f14a-7466-44a7-9725-1df810b836f6" alt="Avatar" width="500" height="400">
 </p>
 
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <span> Hi there! I'm devops_wizard. </span> </h1>
