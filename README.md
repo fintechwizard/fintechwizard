@@ -4,7 +4,7 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <span> Hi there! We're eVOLV. </span> </h1>
 <h2 align="center">:hammer_and_wrench: Skills :hammer_and_wrench:</h2>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Python,+React,+Web3,+DevOps;Trading,+Crypto,+Problem+Solving,+Agile;AI,+Engineering,+Machine+Learning,+Automation;Business Analysis" height="40"/>
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Python,+React,+Web3,+DevOps;Trading,+Crypto,+Problem+Solving,+Agile;AI,+Engineering,+Machine+Learning,+Automation;Business+Analysis" height="40"/>
 <p>
  <h2 align="center">:briefcase: Bio :briefcase:</h2>
 <p align="center">
