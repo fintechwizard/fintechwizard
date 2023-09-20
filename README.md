@@ -37,7 +37,7 @@ https://opensea.io/eVOLV_85
   <a href="https://www.linkedin.com/company/evolv-85" target="blank"><img align="center" src="https://user-images.githubusercontent.com/107593481/211128153-14a01943-13d2-47d5-93a7-c8eb7be1c257.svg" alt="linkedin" height="40" width="40" /></a> &nbsp;&nbsp;
   <a href="https://open.spotify.com/user/dharris140985?si=10fdc7d256b3491d" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="spotify" height="40" width="40" /></a>
   &nbsp;&nbsp;
-  <a href="https://evolv.website/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/107593481/211128154-93f08d3f-9c55-4a15-8997-f73747c7b24c.svg" alt="eVOLV" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="https://www.evolv.website/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/107593481/211128154-93f08d3f-9c55-4a15-8997-f73747c7b24c.svg" alt="eVOLV" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
 <br>
 <h2 align="center">:pray: Support :pray: </h2>
