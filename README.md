@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://github.com/fintechwizard/fintechwizard/assets/107593481/07b493da-f5b6-4179-920d-3ab82e3c372d" alt="Avatar" width="500" height="400">
 </p>
