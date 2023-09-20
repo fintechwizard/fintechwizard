@@ -8,7 +8,7 @@
 <p>
  <h2 align="center">:briefcase: Bio :briefcase:</h2>
 <p align="center">
-As a <b>Project Engineers</b> at <b>eVOLV</b>, We specialize in bringing exciting projects to life. Our greatest strength is our ability to solve complex problems. With our exceptional skills and strong technical background, we are able to effectively communicate and collaborate with team members and our partners to deliver high-quality results.
+As <b>Project Engineers</b> at <b>eVOLV</b>, We specialize in bringing exciting projects to life. Our greatest strength is our ability to solve complex problems. With our exceptional skills and strong technical background, we are able to effectively communicate and collaborate with team members and our partners to deliver high-quality results.
 We have a deep understanding of a variety of technologies, including Python, React, PineScript, Web3, Blockchain, Mechanical, Electrical and Software Engineering, while we also have experience working with DevOps methodologies such as agile and cloud based systems.
 We are a small team of specialists who enjoy staying up to date with the latest trends and technologies in our respective fields, and are always looking for new opportunities to learn and grow. We are problem-solvers at heart and thrive when we are working. If you have an exciting project in mind, don't hesitate to reach out!
 </p>
@@ -24,7 +24,7 @@ Check out this beautiful image generated using our AI technology and Stable Diff
 <p/>
 
 <p align="center">
-You can find our full collection of AI-generated art and images here:
+You can find our full nft collection of AI-generated art and images here:
 </p>
 <p align="center">
 https://opensea.io/eVOLV_85
@@ -33,9 +33,9 @@ https://opensea.io/eVOLV_85
 <h2 align="center">:telephone: Connect with us: </h2>
 <br>
 <p align="center">
-  <a href="https://twitter.com/eVOLV_85" target="blank"><img align="center" src="https://simpleicons.org/icons/x.svg" alt="eVOLV" height="40" width="40" /></a> &nbsp;&nbsp;
-  <a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/107593481/211128153-14a01943-13d2-47d5-93a7-c8eb7be1c257.svg" alt="eVOLV" height="40" width="40" /></a> &nbsp;&nbsp;
-  <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="eVOLV" height="40" width="40" /></a>
+  <a href="https://twitter.com/eVOLV_85" target="blank"><img align="center" src="https://simpleicons.org/icons/x.svg" alt="X" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/107593481/211128153-14a01943-13d2-47d5-93a7-c8eb7be1c257.svg" alt="linkedin" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="spotify" height="40" width="40" /></a>
   &nbsp;&nbsp;
   <a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/107593481/211128154-93f08d3f-9c55-4a15-8997-f73747c7b24c.svg" alt="eVOLV" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
@@ -48,6 +48,8 @@ Furthermore, if you feel so inclined, we would be delighted if you were to consi
 </p>
 <br>
 <br>
-<p  align="center">
-<a href="put link here" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="devops_wizard" /></a>
+<p align="center">
+  <a href="https://evolv.website/#walletDonation" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="devops_wizard" />
+  </a>
 </p>
