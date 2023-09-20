@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://github.com/fintechwizard/fintechwizard/assets/107593481/38b5f14a-7466-44a7-9725-1df810b836f6" alt="Avatar" width="500" height="400">
+  <img src="https://github.com/fintechwizard/fintechwizard/assets/107593481/07b493da-f5b6-4179-920d-3ab82e3c372d" alt="Avatar" width="500" height="400">
 </p>
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <span> Hi there! We're eVOLV. </span> </h1>
 <h2 align="center">:hammer_and_wrench: Skills :hammer_and_wrench:</h2>
